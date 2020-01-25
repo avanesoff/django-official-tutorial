@@ -8,5 +8,5 @@ Writing your first Django app
 - [x] Writing your first Django app, part 4
 - [x] Writing your first Django app, part 5
 - [x] Writing your first Django app, part 6
-- [ ] Writing your first Django app, part 7
+- [x] Writing your first Django app, part 7
 - [ ] Advanced tutorial: How to write reusable apps
